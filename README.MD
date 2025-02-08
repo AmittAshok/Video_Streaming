@@ -21,7 +21,7 @@ This images gives you an idea of the differences between video streaming for Chr
 Download [the zip file for this respository](https://github.com/bootstrapping-microservices/video-streaming-example/archive/master.zip) or clone it using Git:
 
 ```bash
-git clone https://github.com/bootstrapping-microservices/video-streaming-example.git
+git clone https://github.com/AmittAshok/Video_Streaming.git
 ```
 
 Then install depdencies:
